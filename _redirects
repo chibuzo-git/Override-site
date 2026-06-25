@@ -1,0 +1,4 @@
+# Cloudflare Pages _redirects
+# Ensures clean URLs and handles trailing slashes
+
+/blog /blog/ 301
