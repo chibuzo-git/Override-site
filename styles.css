@@ -566,6 +566,19 @@ section { padding: 96px 24px; }
 
 .post-body strong { color: var(--text); font-weight: 600; }
 
+/* ── HIDDEN DOM KEYWORD ── */
+.hidden-keyword {
+  position: absolute;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  font-size: 0;
+  line-height: 0;
+  color: transparent;
+  pointer-events: none;
+  user-select: none;
+}
+
 /* ── RESPONSIVE ── */
 @media (max-width: 768px) {
   .site-header { padding: 16px 20px; }
