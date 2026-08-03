@@ -1,0 +1,2 @@
+
+document.querySelectorAll('a[aria-disabled="true"]').forEach(a=>a.addEventListener('click',e=>e.preventDefault()));

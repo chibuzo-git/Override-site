@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://override-app.org/sitemap.xml

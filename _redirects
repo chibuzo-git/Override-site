@@ -1,4 +1,6 @@
-# Cloudflare Pages _redirects
-# Ensures clean URLs and handles trailing slashes
-
-/blog /blog/ 301
+# Canonical cleanups for duplicate July copies
+/blog/2026-07-26-boredom-and-compulsive-behavior.html /blog/2026-06-28-boredom-and-compulsive-behavior.html 301
+/blog/2026-07-26-lapse-vs-relapse.html /blog/2026-06-28-lapse-vs-relapse.html 301
+/blog/2026-07-26-why-shame-makes-recovery-harder.html /blog/2026-06-28-why-shame-makes-recovery-harder.html 301
+# Old article reframed without deleting existing equity
+/blog/2026-06-26-why-blocking-access-works.html /blog/2026-06-26-why-blocking-access-works.html 200
