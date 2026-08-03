@@ -38,3 +38,7 @@ GA4 Measurement ID configured: `G-576LWHTV02`.
 - Added a non-clickable `Coming Soon to Google Play` CTA beside App Store download buttons.
 
 - Replaced placeholder favicon and social-sharing image with the real Override app icon.
+
+- Updated privacy policy, terms, and metadata to describe Override as a mobile application rather than an iOS-only product.
+- Platform-specific APIs are now referenced only as implementation examples, not as the identity of the service.
+- Purchases and subscription language now covers both Apple App Store and Google Play.
