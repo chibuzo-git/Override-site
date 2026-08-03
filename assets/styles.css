@@ -67,3 +67,12 @@ section{padding:84px 24px}.surface{background:var(--surface);border-block:1px so
   .analytics-consent__actions{width:100%}
   .consent-button{flex:1}
 }
+
+.btn-disabled{
+  background:transparent;
+  border-color:var(--border);
+  color:var(--text-muted);
+  cursor:not-allowed;
+  opacity:.8;
+  user-select:none;
+}

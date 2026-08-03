@@ -123,7 +123,7 @@
           <h2>Private app. Optional website analytics.</h2>
           <p>
             Override can use Google Analytics on this public website to understand
-            which pages help visitors and which links lead to the App Store.
+            how visitors use the site and improve the website experience.
             Analytics cannot access or track anything inside the Override app.
           </p>
           <a href="/privacy.html#website-analytics">Read the website analytics policy</a>

@@ -34,3 +34,5 @@ accessible to the website or Google Analytics.
 
 
 GA4 Measurement ID configured: `G-576LWHTV02`.
+
+- Added a non-clickable `Coming Soon to Google Play` CTA beside App Store download buttons.
