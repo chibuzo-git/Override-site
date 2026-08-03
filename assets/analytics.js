@@ -7,7 +7,7 @@
   3. Analytics remains disabled until the visitor accepts website analytics.
   4. This script runs only on override-app.org. It has no access to the Override
      mobile app, app storage, selected shielded apps, intervention activity,
-     camera processing, personal reasons, final phrase, clean timer, or settings.
+     camera processing, personal reasons, personalized intervention content, clean timer, or settings.
 */
 (() => {
   "use strict";
