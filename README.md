@@ -42,3 +42,7 @@ GA4 Measurement ID configured: `G-576LWHTV02`.
 - Platform-specific APIs are now referenced only as implementation examples, not as the identity of the service.
 - Purchases and subscription language now covers both Apple App Store and Google Play.
 
+
+- SEO indexing normalization: all preferred public URLs now use clean extensionless paths.
+- Canonical tags, Open Graph URLs, JSON-LD URLs, internal links, and sitemap entries now agree.
+- Legacy `.html` and old-path URLs remain eligible to redirect to the preferred canonical URL.
