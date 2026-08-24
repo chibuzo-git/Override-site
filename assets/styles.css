@@ -76,3 +76,11 @@ section{padding:84px 24px}.surface{background:var(--surface);border-block:1px so
   opacity:.8;
   user-select:none;
 }
+
+.text-gradient{
+  background: linear-gradient(90deg, var(--purple, #7C3AED), #C084FC);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
