@@ -126,7 +126,7 @@
             how visitors use the site and improve the website experience.
             Analytics cannot access or track anything inside the Override app.
           </p>
-          <a href="/privacy.html#website-analytics">Read the website analytics policy</a>
+          <a href="/privacy#website-analytics">Read the website analytics policy</a>
         </div>
         <div class="analytics-consent__actions">
           <button type="button" class="consent-button consent-button--secondary"

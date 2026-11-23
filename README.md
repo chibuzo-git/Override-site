@@ -1,19 +1,20 @@
-# Override Final SEO Website
+# Override AEO Website
 
 Upload-ready website for https://override-app.org.
 
-- 58 HTML pages
+- 71 HTML pages
 - 38 long-tail/resource pages
-- Marketing-pillars structure on all new search pages
+- Buyer-decision structure for AEO and traditional search
 - Exact mission sequence intentionally omitted
 - Canonicals, metadata, sitemap, robots.txt, internal links, redirects
 - Existing blog articles retained
+- AEO strategy and buyer-prompt test set in `AEO-AUDIT.md` and `AEO-PROMPTS.md`
 
 ## Upload
+
 Replace the current repository contents with this folder, commit, and push. Then confirm `/`, `/resources/`, `/sitemap.xml`, and `/robots.txt`.
 
 Google Analytics was not added because the current privacy policy states that Override does not use analytics SDKs or third-party trackers. Google Search Console does not require adding visitor analytics.
-
 
 ## Activate Google Analytics 4
 
@@ -32,16 +33,13 @@ Analytics loads only after the website visitor accepts. Declining leaves the Goo
 unloaded. The mobile app remains analytics-free and its on-device recovery data is not
 accessible to the website or Google Analytics.
 
-
 GA4 Measurement ID configured: `G-576LWHTV02`.
 
 - Added a non-clickable `Coming Soon to Google Play` CTA beside App Store download buttons.
 
-
 - Updated privacy policy, terms, and metadata to describe Override as a mobile application rather than an iOS-only product.
 - Platform-specific APIs are now referenced only as implementation examples, not as the identity of the service.
 - Purchases and subscription language now covers both Apple App Store and Google Play.
-
 
 - SEO indexing normalization: all preferred public URLs now use clean extensionless paths.
 - Canonical tags, Open Graph URLs, JSON-LD URLs, internal links, and sitemap entries now agree.
